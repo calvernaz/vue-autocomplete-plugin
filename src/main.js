@@ -1,8 +1,8 @@
 import Vue from 'vue'
 import App from './App.vue'
-import VueHello from './components'
+import VueAutocomplete from './components'
 
-Vue.use(VueHello)
+Vue.use(VueAutocomplete)
 
 /* eslint-disable no-new */
 new Vue({
